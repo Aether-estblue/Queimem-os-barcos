@@ -1,5 +1,5 @@
-# Queimem-os-barcos
-Provérbios russos 
+# Queimem-os-Barcos
+ρяσѵєявıσs яυssσs 
 
 ![michelangelo](https://github.com/user-attachments/assets/60a657a3-ab95-4a0f-8356-0b131b290730)
 
@@ -9,7 +9,7 @@ Provérbios russos
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site</title>
+    <title> Preságio -Deixe sua Moeda!- <>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,7 +18,7 @@ Provérbios russos
         <h1>Como enxergamos o mundo?</h1>
         <nav>
             <ul>
-                <li><a href="#sobre">Sobre mim</a></li>
+                <li><a href="#russia">Rússia</a></li>
                 <li><a href="#projetos">Projetos</a></li>
                 <li><a href="#contato">Contato</a></li>
             </ul>
@@ -27,7 +27,7 @@ Provérbios russos
 
     <!-- Seção Sobre -->
     <section id="sobre">
-        <h2>Sobre mim</h2>
+        <h2>Rússia</h2>
         <p>
         ![romanelli_chronos_and_his_child](https://github.com/user-attachments/assets/29579169-cd7d-4e21-8043-c417ce999f45)
 
@@ -50,6 +50,7 @@ Daí veio o provérbio: só quem trabalha colhe resultados.</p>
         </div>
         <div class="projeto">
             <h3>🔹 Projeto 2</h3>
+            
             <p>“Лучше один раз увидеть, чем сто раз услышать”
 
 (Luchshe odin raz uvidet’, chem sto raz uslyshat’ – “Melhor ver uma vez do que ouvir cem vezes”)
@@ -57,6 +58,7 @@ Daí veio o provérbio: só quem trabalha colhe resultados.</p>
 Um comandante russo contava instruções longas aos soldados sobre um novo canhão. Mas nenhum entendia direito. Então ele disparou uma única vez. Todos compreenderam de imediato. Desde então, a frase lembra que experiência direta vale mais do que relatos repetidos.</p>
         </div>
     </section>
+    
     ![images](https://github.com/user-attachments/assets/64a0bdd7-37a7-4d2a-bbc1-08c7c346ef16)
 
 
