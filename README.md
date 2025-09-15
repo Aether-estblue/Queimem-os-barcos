@@ -1,7 +1,9 @@
 # Queimem-os-Barcos
 ρяσѵєявıσs яυssσs 
 
-![michelangelo](https://github.com/user-attachments/assets/60a657a3-ab95-4a0f-8356-0b131b290730)
+![monumentos-de-la-colina](https://github.com/user-attachments/assets/6bf3a85d-cc82-4314-83f5-cf19d970157c)
+
+
 
 
 <!DOCTYPE html>
@@ -49,7 +51,8 @@ Conta-se que um camponês preguiçoso sentava todos os dias na beira do lago, re
 Daí veio o provérbio: só quem trabalha colhe resultados.</p>
         </div>
 
-![images](https://github.com/user-attachments/assets/7523cf37-c913-43cc-a6ef-d44efd18adf7)
+![5ede7c4554](https://github.com/user-attachments/assets/5ed2290d-fccc-459a-8828-5f28d2e4c03a)
+
 
         <div class="projeto">
             <h3>🔹 Projeto 2</h3>
