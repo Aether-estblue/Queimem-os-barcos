@@ -1,5 +1,6 @@
 # Queimem-os-barcos
 Provérbios russos 
+![hiper-mitos-gregos-16-cke](https://github.com/user-attachments/assets/ef5f95a8-7bf0-447b-bac1-529f48672161)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -25,6 +26,8 @@ Provérbios russos
     <section id="sobre">
         <h2>Sobre mim</h2>
         <p>
+        ![romanelli_chronos_and_his_child](https://github.com/user-attachments/assets/29579169-cd7d-4e21-8043-c417ce999f45)
+
             Sabemos que existem centenas formas de interpretar algo, isso significa que, em último caso, nossas conclusões sempre estiveram erradas.
         </p>
     </section>
@@ -51,6 +54,8 @@ Daí veio o provérbio: só quem trabalha colhe resultados.</p>
 Um comandante russo contava instruções longas aos soldados sobre um novo canhão. Mas nenhum entendia direito. Então ele disparou uma única vez. Todos compreenderam de imediato. Desde então, a frase lembra que experiência direta vale mais do que relatos repetidos.</p>
         </div>
     </section>
+    ![images](https://github.com/user-attachments/assets/64a0bdd7-37a7-4d2a-bbc1-08c7c346ef16)
+
 
     <!-- Seção Contato -->
     <section id="contato">
