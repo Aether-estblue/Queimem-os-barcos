@@ -1,7 +1,7 @@
 # Queimem-os-barcos
 Provérbios russos 
 ![hiper-mitos-gregos-16-cke](https://github.com/user-attachments/assets/ef5f95a8-7bf0-447b-bac1-529f48672161)
-<!DOCTYPE html>
+<n\!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
