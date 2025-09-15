@@ -48,6 +48,9 @@ Conta-se que um camponês preguiçoso sentava todos os dias na beira do lago, re
 — Você espera que os peixes pulem sozinhos na panela?
 Daí veio o provérbio: só quem trabalha colhe resultados.</p>
         </div>
+
+![images](https://github.com/user-attachments/assets/7523cf37-c913-43cc-a6ef-d44efd18adf7)
+
         <div class="projeto">
             <h3>🔹 Projeto 2</h3>
             
@@ -59,7 +62,9 @@ Um comandante russo contava instruções longas aos soldados sobre um novo canh�
         </div>
     </section>
     
-    ![images](https://github.com/user-attachments/assets/64a0bdd7-37a7-4d2a-bbc1-08c7c346ef16)
+  
+![images](https://github.com/user-attachments/assets/205e2ff1-e287-496b-b8ea-05f1e82971c6)
+
 
 
     <!-- Seção Contato -->
