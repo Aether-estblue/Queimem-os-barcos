@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>ρяєsαgıσ - ∂єıxє sυα мσє∂α</title>
+  <title> ρяєsαgıσ -∂єıxє sυα мσє∂α!- <>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
