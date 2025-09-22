@@ -19,20 +19,22 @@
         <h1>Como enxergamos o mundo?</h1>
         <nav>
             <ul>
-                <li><a href="#russia">Rússia</a></li>
+                <li><a href="#introdução">Rússia</a></li>
                 <li><a href="#projetos">Projetos</a></li>
                 <li><a href="#contato">Contato</a></li>
             </ul>
         </nav>
     </header>
 
-    <!-- Seção Sobre -->
+    <!-- Seção Introdução -->
     <section id="sobre">
         <h2>Rússia</h2>
         <p>
         ![romanelli_chronos_and_his_child](https://github.com/user-attachments/assets/29579169-cd7d-4e21-8043-c417ce999f45)
 
             Sabemos que existem centenas formas de interpretar algo, isso significa que, em último caso, nossas conclusões sempre estiveram erradas.
+            
+            A Rússia, um vasto território que se estende por dois continentes, é uma nação rica em história, cultura e sabedoria ancestral. Ao longo dos séculos, seu povo desenvolveu uma profunda ligação com a natureza, a luta pela sobrevivência e a busca por entendimento em tempos de adversidade. Os provérbios russos, frutos dessa rica tradição, refletem a sabedoria adquirida através de experiências, dificuldades e vitórias coletivas. Essas expressões curtas e poderosas não apenas transmitem lições de vida, mas também capturam a essência de uma cultura marcada pela resistência, pelo trabalho árduo e pela reverência às forças invisíveis da vida. Eles nos ensinam, com simplicidade, como encarar a vida, superar desafios e, sobretudo, como interpretar o mundo ao nosso redor de uma maneira única e filosófica.
         </p>
     </section>
 
@@ -84,4 +86,4 @@ Um comandante russo contava instruções longas aos soldados sobre um novo canh�
     </footer>
 </body>
 </html>
-                                                                                                                                                                                  O que falta aqui?
+                                                                                                                                                                                  O que 
