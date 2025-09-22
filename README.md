@@ -36,8 +36,9 @@
             
             A Rússia, um vasto território que se estende por dois continentes, 
             é uma nação rica em história, cultura e sabedoria ancestral. Ao longo dos séculos, 
-            seu povo desenvolveu uma profunda ligação com a natureza, a luta pela sobrevivência e a busca por entendimento em tempos de adversidade. 
-            Os provérbios russos, frutos dessa rica tradição, refletem a sabedoria adquirida através de experiências, dificuldades e vitórias coletivas.
+            seu povo desenvolveu uma profunda ligação com a natureza, a luta pela sobrevivência 
+            e a busca por entendimento em tempos de adversidade. Os provérbios russos, frutos dessa 
+            rica tradição, refletem a sabedoria adquirida através de experiências, dificuldades e vitórias coletivas.
             Essas expressões curtas e poderosas não apenas transmitem lições de vida,
             mas também capturam a essência de uma cultura marcada pela resistência, 
             pelo trabalho árduo e pela reverência às forças invisíveis da vida. 
